@@ -1,0 +1,3 @@
+[submodule "ipsc_gp_clustering"]
+	path = ipsc_gp_clustering
+	url = https://github.com/karltayeb/ipsc_gp_clustering.git
