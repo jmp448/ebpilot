@@ -1,0 +1,5 @@
+data/*
+myenv/*
+slurmy/logs/*
+jupyter*
+slurm-*
