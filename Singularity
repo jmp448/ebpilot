@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: tensorflow/tensorflow:latest
+From: tensorflow/tensorflow:1.14.0-py3-jupyter
 
 %environment
   # use bash as default shell
@@ -34,7 +34,7 @@ From: tensorflow/tensorflow:latest
   pip install opencv-contrib-python
   pip install cryptography
   
-  pip install gpflow
+  pip install gpflow==1.3.0
 
 %runscript
   # executes with the singularity run command
