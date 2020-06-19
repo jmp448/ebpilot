@@ -1,5 +1,5 @@
 Bootstrap: docker
-From: tensorflow/tensorflow:latest-py3-jupyter
+From: tensorflow/tensorflow:latest
 
 %environment
   # use bash as default shell
