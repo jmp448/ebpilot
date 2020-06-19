@@ -22,7 +22,7 @@ From: tensorflow/tensorflow:latest-py3-jupyter
   chmod +x /environment
 
   # default mount paths
-  mkdir /scratch /data 
+  mkdir /data 
 
   # additional packages
   apt-get update
