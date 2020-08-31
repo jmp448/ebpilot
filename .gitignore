@@ -3,3 +3,5 @@ myenv/*
 slurmy/logs/*
 jupyter*
 slurm-*
+analysis/.ipynb_checkpoints/*
+singularity/*
